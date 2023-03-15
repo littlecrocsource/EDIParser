@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <marker>200200964A52</marker>
+    <patient>Mary Dough</patient>
+    <code>59430</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2011-01-08</transaction_date>
+    <charge_amount>1210.0</charge_amount>
+    <allowed_amount>1175.4</allowed_amount>
+    <paid_amount>1057.86</paid_amount>
+    <payer>BLUE CROSS AND BLUE SHIELD OF NORTH CAROLINA</payer>
+    <start_date>2010-12-31</start_date>
+    <end_date>2010-12-31</end_date>
+    <rendering_provider/>
+    <adj_0_amount>34.6</adj_0_amount>
+    <adj_0_code>42.0</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>117.54</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>1</ref_0_value>
+  </row>
+  <row>
+    <index>1</index>
+    <marker>200200964A52</marker>
+    <patient>Mary Dough</patient>
+    <code>59440</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2011-01-08</transaction_date>
+    <charge_amount>890.0</charge_amount>
+    <allowed_amount/>
+    <paid_amount>865.0</paid_amount>
+    <payer>BLUE CROSS AND BLUE SHIELD OF NORTH CAROLINA</payer>
+    <start_date>2010-12-31</start_date>
+    <end_date>2010-12-31</end_date>
+    <rendering_provider/>
+    <adj_0_amount>25.0</adj_0_amount>
+    <adj_0_code>3.0</adj_0_code>
+    <adj_0_group>PR</adj_0_group>
+    <adj_1_amount/>
+    <adj_1_code/>
+    <adj_1_group/>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>2</ref_0_value>
+  </row>
+  <row>
+    <index>2</index>
+    <marker>200200964A52</marker>
+    <patient>Mary Dough</patient>
+    <code>59426</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units/>
+    <billed_units>742</billed_units>
+    <transaction_date>2011-01-08</transaction_date>
+    <charge_amount/>
+    <allowed_amount>742.0</allowed_amount>
+    <paid_amount/>
+    <payer>BLUE CROSS AND BLUE SHIELD OF NORTH CAROLINA</payer>
+    <start_date>2010-12-31</start_date>
+    <end_date>2010-12-31</end_date>
+    <rendering_provider/>
+    <adj_0_amount/>
+    <adj_0_code/>
+    <adj_0_group/>
+    <adj_1_amount/>
+    <adj_1_code/>
+    <adj_1_group/>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>3</ref_0_value>
+  </row>
+</data>

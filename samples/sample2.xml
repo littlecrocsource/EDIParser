@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <marker>7722337</marker>
+    <patient>Sally Doe</patient>
+    <code>D0120</code>
+    <modifier/>
+    <qualifier>AD</qualifier>
+    <allowed_units>1</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2019-03-31</transaction_date>
+    <charge_amount>46.0</charge_amount>
+    <allowed_amount>25.0</allowed_amount>
+    <paid_amount>25.0</paid_amount>
+    <payer>DELTA DENTAL OF ABC</payer>
+    <start_date>2019-03-24</start_date>
+    <end_date>2019-03-24</end_date>
+    <rendering_provider>Erin Ban</rendering_provider>
+    <adj_0_amount>21.0</adj_0_amount>
+    <adj_0_code>131</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+  </row>
+  <row>
+    <index>1</index>
+    <marker>7722337</marker>
+    <patient>Sally Doe</patient>
+    <code>D0220</code>
+    <modifier/>
+    <qualifier>AD</qualifier>
+    <allowed_units>1</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2019-03-31</transaction_date>
+    <charge_amount>25.0</charge_amount>
+    <allowed_amount>14.0</allowed_amount>
+    <paid_amount>14.0</paid_amount>
+    <payer>DELTA DENTAL OF ABC</payer>
+    <start_date>2019-03-24</start_date>
+    <end_date>2019-03-24</end_date>
+    <rendering_provider>Erin Ban</rendering_provider>
+    <adj_0_amount>11.0</adj_0_amount>
+    <adj_0_code>131</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+  </row>
+  <row>
+    <index>2</index>
+    <marker>7722337</marker>
+    <patient>Sally Doe</patient>
+    <code>D0230</code>
+    <modifier/>
+    <qualifier>AD</qualifier>
+    <allowed_units>1</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2019-03-31</transaction_date>
+    <charge_amount>22.0</charge_amount>
+    <allowed_amount>10.0</allowed_amount>
+    <paid_amount>10.0</paid_amount>
+    <payer>DELTA DENTAL OF ABC</payer>
+    <start_date>2019-03-24</start_date>
+    <end_date>2019-03-24</end_date>
+    <rendering_provider>Erin Ban</rendering_provider>
+    <adj_0_amount>12.0</adj_0_amount>
+    <adj_0_code>131</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+  </row>
+  <row>
+    <index>3</index>
+    <marker>7722337</marker>
+    <patient>Sally Doe</patient>
+    <code>D0274</code>
+    <modifier/>
+    <qualifier>AD</qualifier>
+    <allowed_units>1</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2019-03-31</transaction_date>
+    <charge_amount>60.0</charge_amount>
+    <allowed_amount>34.0</allowed_amount>
+    <paid_amount>34.0</paid_amount>
+    <payer>DELTA DENTAL OF ABC</payer>
+    <start_date>2019-03-24</start_date>
+    <end_date>2019-03-24</end_date>
+    <rendering_provider>Erin Ban</rendering_provider>
+    <adj_0_amount>26.0</adj_0_amount>
+    <adj_0_code>131</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+  </row>
+  <row>
+    <index>4</index>
+    <marker>7722337</marker>
+    <patient>Sally Doe</patient>
+    <code>D1110</code>
+    <modifier/>
+    <qualifier>AD</qualifier>
+    <allowed_units>1</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2019-03-31</transaction_date>
+    <charge_amount>73.0</charge_amount>
+    <allowed_amount>49.0</allowed_amount>
+    <paid_amount>49.0</paid_amount>
+    <payer>DELTA DENTAL OF ABC</payer>
+    <start_date>2019-03-24</start_date>
+    <end_date>2019-03-24</end_date>
+    <rendering_provider>Erin Ban</rendering_provider>
+    <adj_0_amount>24.0</adj_0_amount>
+    <adj_0_code>131</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+  </row>
+</data>

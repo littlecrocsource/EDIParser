@@ -1,0 +1,6 @@
+,marker,patient,code,modifier,qualifier,allowed_units,billed_units,transaction_date,charge_amount,allowed_amount,paid_amount,payer,start_date,end_date,rendering_provider,adj_0_amount,adj_0_code,adj_0_group
+0,7722337,Sally Doe,D0120,,AD,1,1,2019-03-31,46.0,25.0,25.0,DELTA DENTAL OF ABC,2019-03-24,2019-03-24,Erin Ban,21.0,131,CO
+1,7722337,Sally Doe,D0220,,AD,1,1,2019-03-31,25.0,14.0,14.0,DELTA DENTAL OF ABC,2019-03-24,2019-03-24,Erin Ban,11.0,131,CO
+2,7722337,Sally Doe,D0230,,AD,1,1,2019-03-31,22.0,10.0,10.0,DELTA DENTAL OF ABC,2019-03-24,2019-03-24,Erin Ban,12.0,131,CO
+3,7722337,Sally Doe,D0274,,AD,1,1,2019-03-31,60.0,34.0,34.0,DELTA DENTAL OF ABC,2019-03-24,2019-03-24,Erin Ban,26.0,131,CO
+4,7722337,Sally Doe,D1110,,AD,1,1,2019-03-31,73.0,49.0,49.0,DELTA DENTAL OF ABC,2019-03-24,2019-03-24,Erin Ban,24.0,131,CO

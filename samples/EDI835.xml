@@ -10,7 +10,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>170</charge_amount>
+    <charge_amount>170.0</charge_amount>
     <allowed_amount>58.3</allowed_amount>
     <paid_amount>46.64</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -40,7 +40,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>1400</charge_amount>
+    <charge_amount>1400.0</charge_amount>
     <allowed_amount>230.34</allowed_amount>
     <paid_amount>154.8</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -70,7 +70,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>250</charge_amount>
+    <charge_amount>250.0</charge_amount>
     <allowed_amount>53.23</allowed_amount>
     <paid_amount>42.58</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -100,7 +100,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>60</charge_amount>
+    <charge_amount>60.0</charge_amount>
     <allowed_amount>7.1</allowed_amount>
     <paid_amount>5.68</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -130,7 +130,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>5</charge_amount>
+    <charge_amount>5.0</charge_amount>
     <allowed_amount>0.33</allowed_amount>
     <paid_amount>0.26</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -160,7 +160,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>120</charge_amount>
+    <charge_amount>120.0</charge_amount>
     <allowed_amount>30.86</allowed_amount>
     <paid_amount>24.69</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -190,7 +190,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>1190</charge_amount>
+    <charge_amount>1190.0</charge_amount>
     <allowed_amount>352.58</allowed_amount>
     <paid_amount>158.06</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -220,7 +220,7 @@
     <allowed_units>4.0</allowed_units>
     <billed_units>4</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>400</charge_amount>
+    <charge_amount>400.0</charge_amount>
     <allowed_amount>26.24</allowed_amount>
     <paid_amount>20.99</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -250,7 +250,7 @@
     <allowed_units>12.0</allowed_units>
     <billed_units>12</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>60</charge_amount>
+    <charge_amount>60.0</charge_amount>
     <allowed_amount>3.9</allowed_amount>
     <paid_amount>3.12</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -280,7 +280,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>175</charge_amount>
+    <charge_amount>175.0</charge_amount>
     <allowed_amount>14.64</allowed_amount>
     <paid_amount>11.71</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -310,7 +310,7 @@
     <allowed_units>2.0</allowed_units>
     <billed_units>2</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>100</charge_amount>
+    <charge_amount>100.0</charge_amount>
     <allowed_amount>1.21</allowed_amount>
     <paid_amount>0.97</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -340,7 +340,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>10</charge_amount>
+    <charge_amount>10.0</charge_amount>
     <allowed_amount>0.11</allowed_amount>
     <paid_amount>0.09</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -370,7 +370,7 @@
     <allowed_units>4.0</allowed_units>
     <billed_units>4</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>760</charge_amount>
+    <charge_amount>760.0</charge_amount>
     <allowed_amount>1.06</allowed_amount>
     <paid_amount>0.85</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -394,13 +394,13 @@
     <index>13</index>
     <marker>WP532801</marker>
     <patient>Richard Dunne</patient>
-    <code>1992</code>
+    <code>01992</code>
     <modifier>QZ</modifier>
     <qualifier>HC</qualifier>
     <allowed_units>1.0</allowed_units>
     <billed_units>15</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>595</charge_amount>
+    <charge_amount>595.0</charge_amount>
     <allowed_amount>124.38</allowed_amount>
     <paid_amount>99.5</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -430,7 +430,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>340</charge_amount>
+    <charge_amount>340.0</charge_amount>
     <allowed_amount>66.89</allowed_amount>
     <paid_amount>53.51</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -460,7 +460,7 @@
     <allowed_units>12.0</allowed_units>
     <billed_units>12</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>600</charge_amount>
+    <charge_amount>600.0</charge_amount>
     <allowed_amount>241.32</allowed_amount>
     <paid_amount>241.32</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -490,7 +490,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>120</charge_amount>
+    <charge_amount>120.0</charge_amount>
     <allowed_amount>29.76</allowed_amount>
     <paid_amount>23.81</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -520,7 +520,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>765</charge_amount>
+    <charge_amount>765.0</charge_amount>
     <allowed_amount>190.92</allowed_amount>
     <paid_amount>128.24</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -550,7 +550,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>250</charge_amount>
+    <charge_amount>250.0</charge_amount>
     <allowed_amount>53.23</allowed_amount>
     <paid_amount>42.58</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -580,7 +580,7 @@
     <allowed_units>4.0</allowed_units>
     <billed_units>4</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>400</charge_amount>
+    <charge_amount>400.0</charge_amount>
     <allowed_amount>26.24</allowed_amount>
     <paid_amount>20.99</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -610,7 +610,7 @@
     <allowed_units>2.0</allowed_units>
     <billed_units>2</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>10</charge_amount>
+    <charge_amount>10.0</charge_amount>
     <allowed_amount>0.65</allowed_amount>
     <paid_amount>0.52</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -640,7 +640,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>765</charge_amount>
+    <charge_amount>765.0</charge_amount>
     <allowed_amount>190.92</allowed_amount>
     <paid_amount>78.12</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -670,7 +670,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>250</charge_amount>
+    <charge_amount>250.0</charge_amount>
     <allowed_amount>53.23</allowed_amount>
     <paid_amount>42.58</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -700,7 +700,7 @@
     <allowed_units>4.0</allowed_units>
     <billed_units>4</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>400</charge_amount>
+    <charge_amount>400.0</charge_amount>
     <allowed_amount>26.24</allowed_amount>
     <paid_amount>20.99</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -730,7 +730,7 @@
     <allowed_units>2.0</allowed_units>
     <billed_units>2</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>10</charge_amount>
+    <charge_amount>10.0</charge_amount>
     <allowed_amount>0.65</allowed_amount>
     <paid_amount>0.52</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -754,13 +754,13 @@
     <index>25</index>
     <marker>WP533017</marker>
     <patient>Erica Lindstrom</patient>
-    <code>1992</code>
+    <code>01992</code>
     <modifier>QZ</modifier>
     <qualifier>HC</qualifier>
     <allowed_units>0.7</allowed_units>
     <billed_units>10</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>510</charge_amount>
+    <charge_amount>510.0</charge_amount>
     <allowed_amount>118.16</allowed_amount>
     <paid_amount>94.53</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -784,13 +784,13 @@
     <index>26</index>
     <marker>WP533079</marker>
     <patient>Mukesh Patel</patient>
-    <code>1992</code>
+    <code>01992</code>
     <modifier>QZ</modifier>
     <qualifier>HC</qualifier>
     <allowed_units>0.7</allowed_units>
     <billed_units>10</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>510</charge_amount>
+    <charge_amount>510.0</charge_amount>
     <allowed_amount>118.16</allowed_amount>
     <paid_amount>52.87</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -820,7 +820,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>680</charge_amount>
+    <charge_amount>680.0</charge_amount>
     <allowed_amount>165.91</allowed_amount>
     <paid_amount>103.26</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -850,7 +850,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>250</charge_amount>
+    <charge_amount>250.0</charge_amount>
     <allowed_amount>53.23</allowed_amount>
     <paid_amount>42.58</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -880,7 +880,7 @@
     <allowed_units>4.0</allowed_units>
     <billed_units>4</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>400</charge_amount>
+    <charge_amount>400.0</charge_amount>
     <allowed_amount>26.24</allowed_amount>
     <paid_amount>20.99</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -910,7 +910,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>5</charge_amount>
+    <charge_amount>5.0</charge_amount>
     <allowed_amount>0.33</allowed_amount>
     <paid_amount>0.26</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -940,7 +940,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>255</charge_amount>
+    <charge_amount>255.0</charge_amount>
     <allowed_amount>49.05</allowed_amount>
     <paid_amount>39.24</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -970,7 +970,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>255</charge_amount>
+    <charge_amount>255.0</charge_amount>
     <allowed_amount>80.24</allowed_amount>
     <paid_amount>64.19</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1000,7 +1000,7 @@
     <allowed_units>0.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>163</charge_amount>
+    <charge_amount>163.0</charge_amount>
     <allowed_amount/>
     <paid_amount>0.0</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1030,7 +1030,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>255</charge_amount>
+    <charge_amount>255.0</charge_amount>
     <allowed_amount>49.05</allowed_amount>
     <paid_amount>39.24</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1060,7 +1060,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>255</charge_amount>
+    <charge_amount>255.0</charge_amount>
     <allowed_amount>80.24</allowed_amount>
     <paid_amount>64.19</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1090,7 +1090,7 @@
     <allowed_units>0.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>87</charge_amount>
+    <charge_amount>87.0</charge_amount>
     <allowed_amount/>
     <paid_amount>0.0</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1120,7 +1120,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>210</charge_amount>
+    <charge_amount>210.0</charge_amount>
     <allowed_amount>51.84</allowed_amount>
     <paid_amount>41.47</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1150,7 +1150,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>1050</charge_amount>
+    <charge_amount>1050.0</charge_amount>
     <allowed_amount>125.9</allowed_amount>
     <paid_amount>100.72</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1180,7 +1180,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>325</charge_amount>
+    <charge_amount>325.0</charge_amount>
     <allowed_amount>21.27</allowed_amount>
     <paid_amount>17.02</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1210,7 +1210,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>1470</charge_amount>
+    <charge_amount>1470.0</charge_amount>
     <allowed_amount>111.08</allowed_amount>
     <paid_amount>88.86</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1240,7 +1240,7 @@
     <allowed_units>0.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>210</charge_amount>
+    <charge_amount>210.0</charge_amount>
     <allowed_amount/>
     <paid_amount>0.0</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1270,7 +1270,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>250</charge_amount>
+    <charge_amount>250.0</charge_amount>
     <allowed_amount>26.33</allowed_amount>
     <paid_amount>21.06</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1300,7 +1300,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>210</charge_amount>
+    <charge_amount>210.0</charge_amount>
     <allowed_amount>30.21</allowed_amount>
     <paid_amount>24.17</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1330,7 +1330,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>1030</charge_amount>
+    <charge_amount>1030.0</charge_amount>
     <allowed_amount>106.31</allowed_amount>
     <paid_amount>85.05</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1360,7 +1360,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>130</charge_amount>
+    <charge_amount>130.0</charge_amount>
     <allowed_amount/>
     <paid_amount>19.62</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1390,7 +1390,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>1050</charge_amount>
+    <charge_amount>1050.0</charge_amount>
     <allowed_amount/>
     <paid_amount>88.65</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1420,7 +1420,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>215</charge_amount>
+    <charge_amount>215.0</charge_amount>
     <allowed_amount/>
     <paid_amount>31.15</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1450,7 +1450,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>1050</charge_amount>
+    <charge_amount>1050.0</charge_amount>
     <allowed_amount>125.9</allowed_amount>
     <paid_amount>100.72</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1480,7 +1480,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>325</charge_amount>
+    <charge_amount>325.0</charge_amount>
     <allowed_amount>21.27</allowed_amount>
     <paid_amount>17.02</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1504,13 +1504,13 @@
     <index>50</index>
     <marker>WP533414</marker>
     <patient>Monica Galiano</patient>
-    <code>400</code>
+    <code>00400</code>
     <modifier>AA</modifier>
     <qualifier>HC</qualifier>
     <allowed_units>67.0</allowed_units>
     <billed_units>67</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>1045</charge_amount>
+    <charge_amount>1045.0</charge_amount>
     <allowed_amount>48.0</allowed_amount>
     <paid_amount>48.0</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1534,13 +1534,13 @@
     <index>51</index>
     <marker>WP533479</marker>
     <patient>Rose Latkowski</patient>
-    <code>790</code>
+    <code>00790</code>
     <modifier>AA</modifier>
     <qualifier>HC</qualifier>
     <allowed_units>162.0</allowed_units>
     <billed_units>162</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>2280</charge_amount>
+    <charge_amount>2280.0</charge_amount>
     <allowed_amount>404.64</allowed_amount>
     <paid_amount>404.64</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1570,7 +1570,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>285</charge_amount>
+    <charge_amount>285.0</charge_amount>
     <allowed_amount>53.25</allowed_amount>
     <paid_amount>53.25</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1600,7 +1600,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>380</charge_amount>
+    <charge_amount>380.0</charge_amount>
     <allowed_amount>130.31</allowed_amount>
     <paid_amount>130.31</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
@@ -1630,7 +1630,7 @@
     <allowed_units>1.0</allowed_units>
     <billed_units>1</billed_units>
     <transaction_date>2009-05-15</transaction_date>
-    <charge_amount>855</charge_amount>
+    <charge_amount>855.0</charge_amount>
     <allowed_amount>224.8</allowed_amount>
     <paid_amount>224.8</paid_amount>
     <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
