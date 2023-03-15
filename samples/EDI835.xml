@@ -1,0 +1,1653 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <marker>WP532657</marker>
+    <patient>Leonard Bailey</patient>
+    <code>99213</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>170</charge_amount>
+    <allowed_amount>58.3</allowed_amount>
+    <paid_amount>46.64</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2008-12-21</start_date>
+    <end_date>2008-12-21</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>111.7</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>11.66</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>1</index>
+    <marker>WP532559</marker>
+    <patient>Carrie Blunt</patient>
+    <code>27096</code>
+    <modifier>50</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>1400</charge_amount>
+    <allowed_amount>230.34</allowed_amount>
+    <paid_amount>154.8</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>1169.66</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>36.84</adj_1_amount>
+    <adj_1_code>1.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>2</index>
+    <marker>WP532559</marker>
+    <patient>Carrie Blunt</patient>
+    <code>77003</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>250</charge_amount>
+    <allowed_amount>53.23</allowed_amount>
+    <paid_amount>42.58</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>196.77</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>10.65</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>3</index>
+    <marker>WP532559</marker>
+    <patient>Carrie Blunt</patient>
+    <code>J1040</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>60</charge_amount>
+    <allowed_amount>7.1</allowed_amount>
+    <paid_amount>5.68</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>52.9</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>1.42</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>4</index>
+    <marker>WP532559</marker>
+    <patient>Carrie Blunt</patient>
+    <code>Q9966</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>5</charge_amount>
+    <allowed_amount>0.33</allowed_amount>
+    <paid_amount>0.26</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>4.67</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>0.07</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>5</index>
+    <marker>WP532559</marker>
+    <patient>Carrie Blunt</patient>
+    <code>99212</code>
+    <modifier>25</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>120</charge_amount>
+    <allowed_amount>30.86</allowed_amount>
+    <paid_amount>24.69</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-06</start_date>
+    <end_date>2009-01-06</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>89.14</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>6.17</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>6</index>
+    <marker>WP532759</marker>
+    <patient>Michael Dickinson</patient>
+    <code>62264</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>1190</charge_amount>
+    <allowed_amount>352.58</allowed_amount>
+    <paid_amount>158.06</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>837.42</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>155.0</adj_1_amount>
+    <adj_1_code>1.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>7</index>
+    <marker>WP532759</marker>
+    <patient>Michael Dickinson</patient>
+    <code>J0702</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>4.0</allowed_units>
+    <billed_units>4</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>400</charge_amount>
+    <allowed_amount>26.24</allowed_amount>
+    <paid_amount>20.99</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>373.76</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>5.25</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>8</index>
+    <marker>WP532759</marker>
+    <patient>Michael Dickinson</patient>
+    <code>Q9966</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>12.0</allowed_units>
+    <billed_units>12</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>60</charge_amount>
+    <allowed_amount>3.9</allowed_amount>
+    <paid_amount>3.12</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>56.1</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>0.78</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>9</index>
+    <marker>WP532759</marker>
+    <patient>Michael Dickinson</patient>
+    <code>J3470</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>175</charge_amount>
+    <allowed_amount>14.64</allowed_amount>
+    <paid_amount>11.71</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>160.36</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>2.93</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>10</index>
+    <marker>WP532759</marker>
+    <patient>Michael Dickinson</patient>
+    <code>J0690</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>2.0</allowed_units>
+    <billed_units>2</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>100</charge_amount>
+    <allowed_amount>1.21</allowed_amount>
+    <paid_amount>0.97</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>98.79</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>0.24</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>11</index>
+    <marker>WP532759</marker>
+    <patient>Michael Dickinson</patient>
+    <code>J2250</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>10</charge_amount>
+    <allowed_amount>0.11</allowed_amount>
+    <paid_amount>0.09</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>9.89</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>0.02</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>12</index>
+    <marker>WP532759</marker>
+    <patient>Michael Dickinson</patient>
+    <code>J1885</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>4.0</allowed_units>
+    <billed_units>4</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>760</charge_amount>
+    <allowed_amount>1.06</allowed_amount>
+    <paid_amount>0.85</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>758.94</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>0.21</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>13</index>
+    <marker>WP532801</marker>
+    <patient>Richard Dunne</patient>
+    <code>1992</code>
+    <modifier>QZ</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>15</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>595</charge_amount>
+    <allowed_amount>124.38</allowed_amount>
+    <paid_amount>99.5</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>470.62</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>24.88</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>14</index>
+    <marker>WP532815</marker>
+    <patient>Mario Gargano</patient>
+    <code>99203</code>
+    <modifier>25</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>340</charge_amount>
+    <allowed_amount>66.89</allowed_amount>
+    <paid_amount>53.51</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2008-12-09</start_date>
+    <end_date>2008-12-09</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>273.11</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>13.38</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>22.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>15</index>
+    <marker>WP532821</marker>
+    <patient>Frank Grgich</patient>
+    <code>80101</code>
+    <modifier>QW</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>12.0</allowed_units>
+    <billed_units>12</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>600</charge_amount>
+    <allowed_amount>241.32</allowed_amount>
+    <paid_amount>241.32</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2008-12-09</start_date>
+    <end_date>2008-12-09</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>358.68</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount/>
+    <adj_1_code/>
+    <adj_1_group/>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>16</index>
+    <marker>WP532855</marker>
+    <patient>Keisha Hobson</patient>
+    <code>99212</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>120</charge_amount>
+    <allowed_amount>29.76</allowed_amount>
+    <paid_amount>23.81</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2008-12-30</start_date>
+    <end_date>2008-12-30</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>90.24</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>5.95</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>17</index>
+    <marker>WP532891</marker>
+    <patient>Isabelle Hubert</patient>
+    <code>62310</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>765</charge_amount>
+    <allowed_amount>190.92</allowed_amount>
+    <paid_amount>128.24</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>574.08</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>30.62</adj_1_amount>
+    <adj_1_code>1.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>18</index>
+    <marker>WP532891</marker>
+    <patient>Isabelle Hubert</patient>
+    <code>77003</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>250</charge_amount>
+    <allowed_amount>53.23</allowed_amount>
+    <paid_amount>42.58</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>196.77</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>10.65</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>19</index>
+    <marker>WP532891</marker>
+    <patient>Isabelle Hubert</patient>
+    <code>J0702</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>4.0</allowed_units>
+    <billed_units>4</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>400</charge_amount>
+    <allowed_amount>26.24</allowed_amount>
+    <paid_amount>20.99</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>373.76</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>5.25</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>20</index>
+    <marker>WP532891</marker>
+    <patient>Isabelle Hubert</patient>
+    <code>Q9966</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>2.0</allowed_units>
+    <billed_units>2</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>10</charge_amount>
+    <allowed_amount>0.65</allowed_amount>
+    <paid_amount>0.52</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>9.35</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>0.13</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>21</index>
+    <marker>WP532998</marker>
+    <patient>Janice Leigh</patient>
+    <code>62310</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>765</charge_amount>
+    <allowed_amount>190.92</allowed_amount>
+    <paid_amount>78.12</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>574.08</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>93.27</adj_1_amount>
+    <adj_1_code>1.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>22</index>
+    <marker>WP532998</marker>
+    <patient>Janice Leigh</patient>
+    <code>77003</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>250</charge_amount>
+    <allowed_amount>53.23</allowed_amount>
+    <paid_amount>42.58</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>196.77</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>10.65</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>23</index>
+    <marker>WP532998</marker>
+    <patient>Janice Leigh</patient>
+    <code>J0702</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>4.0</allowed_units>
+    <billed_units>4</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>400</charge_amount>
+    <allowed_amount>26.24</allowed_amount>
+    <paid_amount>20.99</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>373.76</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>5.25</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>24</index>
+    <marker>WP532998</marker>
+    <patient>Janice Leigh</patient>
+    <code>Q9966</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>2.0</allowed_units>
+    <billed_units>2</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>10</charge_amount>
+    <allowed_amount>0.65</allowed_amount>
+    <paid_amount>0.52</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>9.35</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>0.13</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>25</index>
+    <marker>WP533017</marker>
+    <patient>Erica Lindstrom</patient>
+    <code>1992</code>
+    <modifier>QZ</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>0.7</allowed_units>
+    <billed_units>10</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>510</charge_amount>
+    <allowed_amount>118.16</allowed_amount>
+    <paid_amount>94.53</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>391.84</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>23.63</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>26</index>
+    <marker>WP533079</marker>
+    <patient>Mukesh Patel</patient>
+    <code>1992</code>
+    <modifier>QZ</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>0.7</allowed_units>
+    <billed_units>10</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>510</charge_amount>
+    <allowed_amount>118.16</allowed_amount>
+    <paid_amount>52.87</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>391.84</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>52.07</adj_1_amount>
+    <adj_1_code>1.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>27</index>
+    <marker>WP533112</marker>
+    <patient>Ernesto Portillo</patient>
+    <code>62311</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>680</charge_amount>
+    <allowed_amount>165.91</allowed_amount>
+    <paid_amount>103.26</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>514.09</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>36.84</adj_1_amount>
+    <adj_1_code>1.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>28</index>
+    <marker>WP533112</marker>
+    <patient>Ernesto Portillo</patient>
+    <code>77003</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>250</charge_amount>
+    <allowed_amount>53.23</allowed_amount>
+    <paid_amount>42.58</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>196.77</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>10.65</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>29</index>
+    <marker>WP533112</marker>
+    <patient>Ernesto Portillo</patient>
+    <code>J0702</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>4.0</allowed_units>
+    <billed_units>4</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>400</charge_amount>
+    <allowed_amount>26.24</allowed_amount>
+    <paid_amount>20.99</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>373.76</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>5.25</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>30</index>
+    <marker>WP533112</marker>
+    <patient>Ernesto Portillo</patient>
+    <code>Q9966</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>5</charge_amount>
+    <allowed_amount>0.33</allowed_amount>
+    <paid_amount>0.26</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-01-05</start_date>
+    <end_date>2009-01-05</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>4.67</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>0.07</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>31</index>
+    <marker>WP533192</marker>
+    <patient>Joel Schoneman</patient>
+    <code>62368</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>255</charge_amount>
+    <allowed_amount>49.05</allowed_amount>
+    <paid_amount>39.24</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2008-12-17</start_date>
+    <end_date>2008-12-17</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>205.95</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>9.81</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>32</index>
+    <marker>WP533192</marker>
+    <patient>Joel Schoneman</patient>
+    <code>95991</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>255</charge_amount>
+    <allowed_amount>80.24</allowed_amount>
+    <paid_amount>64.19</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2008-12-17</start_date>
+    <end_date>2008-12-17</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>174.76</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>16.05</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>33</index>
+    <marker>WP533192</marker>
+    <patient>Joel Schoneman</patient>
+    <code>J3490</code>
+    <modifier>KD</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>0.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>163</charge_amount>
+    <allowed_amount/>
+    <paid_amount>0.0</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2008-12-17</start_date>
+    <end_date>2008-12-17</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>163.0</adj_0_amount>
+    <adj_0_code>96</adj_0_code>
+    <adj_0_group>PR</adj_0_group>
+    <adj_1_amount/>
+    <adj_1_code/>
+    <adj_1_group/>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code>N130</rem_0_code>
+    <rem_0_qual>HE</rem_0_qual>
+  </row>
+  <row>
+    <index>34</index>
+    <marker>WP532279</marker>
+    <patient>Maria Solano</patient>
+    <code>62368</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>255</charge_amount>
+    <allowed_amount>49.05</allowed_amount>
+    <paid_amount>39.24</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2008-12-17</start_date>
+    <end_date>2008-12-17</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>205.95</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>9.81</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>35</index>
+    <marker>WP532279</marker>
+    <patient>Maria Solano</patient>
+    <code>95991</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>255</charge_amount>
+    <allowed_amount>80.24</allowed_amount>
+    <paid_amount>64.19</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2008-12-17</start_date>
+    <end_date>2008-12-17</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>174.76</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>16.05</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>36</index>
+    <marker>WP532279</marker>
+    <patient>Maria Solano</patient>
+    <code>J3490</code>
+    <modifier>KD</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>0.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>87</charge_amount>
+    <allowed_amount/>
+    <paid_amount>0.0</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2008-12-17</start_date>
+    <end_date>2008-12-17</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>87.0</adj_0_amount>
+    <adj_0_code>96</adj_0_code>
+    <adj_0_group>PR</adj_0_group>
+    <adj_1_amount/>
+    <adj_1_code/>
+    <adj_1_group/>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>11.0</ref_1_value>
+    <rem_0_code>N130</rem_0_code>
+    <rem_0_qual>HE</rem_0_qual>
+  </row>
+  <row>
+    <index>37</index>
+    <marker>WP533512</marker>
+    <patient>Scott Anderson</patient>
+    <code>99213</code>
+    <modifier>GC</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>210</charge_amount>
+    <allowed_amount>51.84</allowed_amount>
+    <paid_amount>41.47</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-05-17</start_date>
+    <end_date>2009-05-17</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>158.16</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>10.37</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>22.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>38</index>
+    <marker>WP533527</marker>
+    <patient>Imelda Hillario</patient>
+    <code>64405</code>
+    <modifier>50</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>1050</charge_amount>
+    <allowed_amount>125.9</allowed_amount>
+    <paid_amount>100.72</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-05-18</start_date>
+    <end_date>2009-05-18</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>924.1</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>25.18</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>22.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>39</index>
+    <marker>WP533527</marker>
+    <patient>Imelda Hillario</patient>
+    <code>20553</code>
+    <modifier>59</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>325</charge_amount>
+    <allowed_amount>21.27</allowed_amount>
+    <paid_amount>17.02</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-05-18</start_date>
+    <end_date>2009-05-18</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>282.46</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>4.25</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>22.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>40</index>
+    <marker>WP533539</marker>
+    <patient>Lydia Jackson</patient>
+    <code>27096</code>
+    <modifier>50</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>1470</charge_amount>
+    <allowed_amount>111.08</allowed_amount>
+    <paid_amount>88.86</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-04-29</start_date>
+    <end_date>2009-04-29</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>1358.92</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>22.22</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>22.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>41</index>
+    <marker>WP533539</marker>
+    <patient>Lydia Jackson</patient>
+    <code>77003</code>
+    <modifier>26</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>0.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>210</charge_amount>
+    <allowed_amount/>
+    <paid_amount>0.0</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-04-29</start_date>
+    <end_date>2009-04-29</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>210.0</adj_0_amount>
+    <adj_0_code>18</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount/>
+    <adj_1_code/>
+    <adj_1_group/>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>22.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>42</index>
+    <marker>WP533539</marker>
+    <patient>Lydia Jackson</patient>
+    <code>20610</code>
+    <modifier>RT</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>250</charge_amount>
+    <allowed_amount>26.33</allowed_amount>
+    <paid_amount>21.06</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-04-29</start_date>
+    <end_date>2009-04-29</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>197.34</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>5.27</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>22.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>43</index>
+    <marker>WP533539</marker>
+    <patient>Lydia Jackson</patient>
+    <code>77003</code>
+    <modifier>26</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>210</charge_amount>
+    <allowed_amount>30.21</allowed_amount>
+    <paid_amount>24.17</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-04-29</start_date>
+    <end_date>2009-04-29</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>179.79</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>6.04</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>22.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>44</index>
+    <marker>WP533589</marker>
+    <patient>Edith Koch</patient>
+    <code>62310</code>
+    <modifier>58</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>1030</charge_amount>
+    <allowed_amount>106.31</allowed_amount>
+    <paid_amount>85.05</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-02-03</start_date>
+    <end_date>2009-02-03</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>923.69</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>21.26</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>22.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>45</index>
+    <marker>WP533678</marker>
+    <patient>Jamal Lewis</patient>
+    <code>62367</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>130</charge_amount>
+    <allowed_amount/>
+    <paid_amount>19.62</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2008-04-08</start_date>
+    <end_date>2008-04-08</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>105.48</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>4.9</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>22.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>46</index>
+    <marker>WP533678</marker>
+    <patient>Jamal Lewis</patient>
+    <code>64405</code>
+    <modifier>50</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>1050</charge_amount>
+    <allowed_amount/>
+    <paid_amount>88.65</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2008-04-15</start_date>
+    <end_date>2008-04-15</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>939.19</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>22.16</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>22.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>47</index>
+    <marker>WP533678</marker>
+    <patient>Jamal Lewis</patient>
+    <code>62368</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>215</charge_amount>
+    <allowed_amount/>
+    <paid_amount>31.15</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2008-04-15</start_date>
+    <end_date>2008-04-15</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>176.06</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>7.79</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>22.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>48</index>
+    <marker>WP533795</marker>
+    <patient>Stacy Tarkowski</patient>
+    <code>64405</code>
+    <modifier>50</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>1050</charge_amount>
+    <allowed_amount>125.9</allowed_amount>
+    <paid_amount>100.72</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-05-18</start_date>
+    <end_date>2009-05-18</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>924.1</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>25.18</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>22.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>49</index>
+    <marker>WP533795</marker>
+    <patient>Stacy Tarkowski</patient>
+    <code>20553</code>
+    <modifier>59</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>325</charge_amount>
+    <allowed_amount>21.27</allowed_amount>
+    <paid_amount>17.02</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-05-18</start_date>
+    <end_date>2009-05-18</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>282.46</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount>4.25</adj_1_amount>
+    <adj_1_code>2.0</adj_1_code>
+    <adj_1_group>PR</adj_1_group>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual>LU</ref_1_qual>
+    <ref_1_value>22.0</ref_1_value>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>50</index>
+    <marker>WP533414</marker>
+    <patient>Monica Galiano</patient>
+    <code>400</code>
+    <modifier>AA</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>67.0</allowed_units>
+    <billed_units>67</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>1045</charge_amount>
+    <allowed_amount>48.0</allowed_amount>
+    <paid_amount>48.0</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-02-18</start_date>
+    <end_date>2009-02-18</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>997.0</adj_0_amount>
+    <adj_0_code>23</adj_0_code>
+    <adj_0_group>OA</adj_0_group>
+    <adj_1_amount/>
+    <adj_1_code/>
+    <adj_1_group/>
+    <ref_0_qual/>
+    <ref_0_value/>
+    <ref_1_qual/>
+    <ref_1_value/>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>51</index>
+    <marker>WP533479</marker>
+    <patient>Rose Latkowski</patient>
+    <code>790</code>
+    <modifier>AA</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>162.0</allowed_units>
+    <billed_units>162</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>2280</charge_amount>
+    <allowed_amount>404.64</allowed_amount>
+    <paid_amount>404.64</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-04-19</start_date>
+    <end_date>2009-04-19</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>1875.36</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount/>
+    <adj_1_code/>
+    <adj_1_group/>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual/>
+    <ref_1_value/>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>52</index>
+    <marker>WP533479</marker>
+    <patient>Rose Latkowski</patient>
+    <code>36620</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>285</charge_amount>
+    <allowed_amount>53.25</allowed_amount>
+    <paid_amount>53.25</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-04-19</start_date>
+    <end_date>2009-04-19</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>231.75</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount/>
+    <adj_1_code/>
+    <adj_1_group/>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual/>
+    <ref_1_value/>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>53</index>
+    <marker>WP533479</marker>
+    <patient>Rose Latkowski</patient>
+    <code>36556</code>
+    <modifier/>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>380</charge_amount>
+    <allowed_amount>130.31</allowed_amount>
+    <paid_amount>130.31</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-04-19</start_date>
+    <end_date>2009-04-19</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>249.69</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount/>
+    <adj_1_code/>
+    <adj_1_group/>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual/>
+    <ref_1_value/>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+  <row>
+    <index>54</index>
+    <marker>WP533557</marker>
+    <patient>Juanita Linares</patient>
+    <code>62319</code>
+    <modifier>59</modifier>
+    <qualifier>HC</qualifier>
+    <allowed_units>1.0</allowed_units>
+    <billed_units>1</billed_units>
+    <transaction_date>2009-05-15</transaction_date>
+    <charge_amount>855</charge_amount>
+    <allowed_amount>224.8</allowed_amount>
+    <paid_amount>224.8</paid_amount>
+    <payer>GREEN LAKE INSURANCE SERVICES, INC.</payer>
+    <start_date>2009-04-19</start_date>
+    <end_date>2009-04-19</end_date>
+    <rendering_provider> </rendering_provider>
+    <adj_0_amount>630.2</adj_0_amount>
+    <adj_0_code>45</adj_0_code>
+    <adj_0_group>CO</adj_0_group>
+    <adj_1_amount/>
+    <adj_1_code/>
+    <adj_1_group/>
+    <ref_0_qual>6R</ref_0_qual>
+    <ref_0_value>123456789.0</ref_0_value>
+    <ref_1_qual/>
+    <ref_1_value/>
+    <rem_0_code/>
+    <rem_0_qual/>
+  </row>
+</data>
