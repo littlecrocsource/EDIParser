@@ -19,15 +19,12 @@ if os.path.exists(directory):
         transaction_sets = parse(path+".txt")
         data = transaction_sets.to_dataframe()
 
-        # Run this uncommented first and then delete the first "Unnamed: 0 " 
-        # column from the csv
         data.to_csv(path+".csv")
 
         df = pd.read_csv(path+".csv")
+        df.drop(columns=df.columns[0], axis=1,inplace=True)
         print(df)
-
-        # Comment this if running for first time
-        # df.to_xml(directory+filename+".xml")
+        df.to_xml(directory+filename+".xml")
 else:
     print(f"[ERROR] Check {directory}")
 
