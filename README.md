@@ -17,4 +17,4 @@ for example:
 ```
 python3 835_to_csv_parser.py ~/Desktop/ edi_file
 ```
-This parser alternatively generates a .xml by editing the src code at the moment. See .py notes to run.
+This parser alternatively auto-generates a .xml file in the same <path_to_directory>
